@@ -1,4 +1,7 @@
 Variables : son expreiones que guardan datos y toman un valor segun se 
 neseciten
 Strings  : son palabras en el codigo encerradas en '' 
-Funiones(arguments,'return')
+Funiones(arguments,'return') devuelve la solucion de diferentes
+secuencias de codigo y adquiere esa solucion para luego ser llamada
+Declaraciones If : si pasa esto , hago esto 
+Valores Boleanos son aquellos que toman el valor de verdadero o falso
